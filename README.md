@@ -23,6 +23,7 @@ From my research and implementation, I learned that Linear Regression is a simpl
 This task not only enhanced my technical skills in data preprocessing, model training, and evaluation but also gave me practical experience in comparing models, understanding bias-variance trade-offs, and interpreting results. I also gained insights into important machine learning concepts such as ensemble learning, feature importance, and the role of scaling in regression models. Overall, this task helped me develop a more well-rounded perspective on predictive analysis and its applications in real-world data science projects.
 
 **OUTPUT:**
+
 <img width="707" height="312" alt="Image" src="https://github.com/user-attachments/assets/fea9f93e-b5db-4029-8083-7861b5295e26" />
 
 <img width="1102" height="761" alt="Image" src="https://github.com/user-attachments/assets/7670f19b-dbe1-45a6-b17d-02c8afae680a" />
